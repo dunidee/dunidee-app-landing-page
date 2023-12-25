@@ -25,3 +25,7 @@ body {
 .bg-purple-1000 {
   background-color: #393243;
 }
+
+.w-100 {
+  width: 30rem;
+}
