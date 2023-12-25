@@ -18,5 +18,10 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: #0E0A15
+  background: #0E0A15;
+  min-height: 100vh;
+}
+
+.bg-purple-1000 {
+  background-color: #393243;
 }
